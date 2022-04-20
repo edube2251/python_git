@@ -19,7 +19,7 @@ y = p * q
 print('the answer is : ' + str(y))
 
 z = int(input('enter score'))
-
+# if statement 
 if z > 2 :
    print('you win')
 else:
