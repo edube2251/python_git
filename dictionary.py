@@ -7,11 +7,12 @@ MyCar = {
     "color" : "Blue"
     }
 print(MyCar)
-print()
+print("\n")
+
 # dispay length
 
 print(len(MyCar))
-print()
+print("\n")
 #Get the value of the "model" key:
 
 x = MyCar.get("model")
@@ -21,25 +22,25 @@ print()
 p = MyCar.keys()
 
 print(p)
-print()
+print("\n")
 #add key and a value
 
 MyCar["engine"]="2cam"
 
 print(MyCar)
-print()
+print("\n")
 #print values
 f= MyCar.values()
 print(f)
-print()
+print("\n")
 #Make a change in the original dictionary
 MyCar["Year"]= "2012"
 print(MyCar)
-print()
+print("\n")
 #Get a list of the key:value pairs
 s= MyCar.items()
 print(s)
-print()
+print("\n")
 #remove items
 MyCar.pop("engine")
 print(MyCar)
