@@ -1,0 +1,8 @@
+# Question 5
+x = input("enter a word  ")
+for i in range(len(x) - 1, -1, -1):
+    print(x[i], end = " ")
+print()
+    
+    
+    
