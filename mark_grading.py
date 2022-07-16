@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 # mark classification:
 mark = 0
 mark = int(input(" Please enetr you mark "))
@@ -14,7 +14,7 @@ elif mark <= 100 :
     print(" DISTINTION ")
 else:
     print("pecertange is out of 100, please enter correct mark ")
-=======
+#=======
 # mark classification:
 mark = 0
 mark = int(input(" Please enetr you mark "))
@@ -30,4 +30,4 @@ elif mark <= 100 :
     print(" DISTINTION ")
 else:
     print("pecertange is out of 100, please enter correct mark ")
->>>>>>> 762bfa2697b800dc6d67d8120951101c8ebdd6f0
+#>>>>>>> 762bfa2697b800dc6d67d8120951101c8ebdd6f0
